@@ -1,0 +1,5 @@
+com\junit\maven\spring\DAO\TicketDAoImpl.class
+com\junit\maven\spring\service\TicketServiceImpl.class
+com\junit\maven\spring\DAO\TicketDAO.class
+com\junit\maven\spring\dto\Ticket.class
+com\junit\maven\spring\service\TicketService.class
